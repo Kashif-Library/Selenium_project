@@ -9,7 +9,7 @@ def setup_function():
     driver = webdriver.Firefox(service=Service("geckodriver.exe"))
     driver.get('https://alnafi.com/auth/sign-in')
     driver.maximize_window()
-    driver.implicitly_wait(10)
+    driver.implicitly_wait(20)
 
 def teardown_function():
     driver.quit()
