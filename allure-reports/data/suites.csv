@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","3458","test_login[abd@gmail.com-abd@123]","","Tue Sep 02 16:30:50 PKT 2025","passed","Tue Sep 02 16:30:53 PKT 2025","","test_kashif","",""
+"","2376","test_login[ali@gmail.com-ali@123]","","Tue Sep 02 16:30:54 PKT 2025","passed","Tue Sep 02 16:30:56 PKT 2025","","test_kashif","",""
+"","1667","test_login[abdeali@gmail.com-abdeali@123]","","Tue Sep 02 16:30:57 PKT 2025","passed","Tue Sep 02 16:30:59 PKT 2025","","test_kashif","",""
